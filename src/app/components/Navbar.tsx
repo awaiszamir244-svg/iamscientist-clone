@@ -79,10 +79,11 @@ export default function Navbar() {
             Login
           </Link>
           <button
-            onClick={() => setMenuOpen(!menuOpen)}
-            aria-label="Toggle menu"
-            className="flex h-9 w-9 flex-col items-center justify-center gap-1.5 rounded-md border border-white/30"
-          >
+  type="button"
+  onClick={() => setMenuOpen(!menuOpen)}
+  aria-label="Toggle menu"
+  className="flex h-9 w-9 flex-col items-center justify-center gap-1.5 rounded-md border border-white/30"
+>
             <span className="h-0.5 w-5 bg-white" />
             <span className="h-0.5 w-5 bg-white" />
             <span className="h-0.5 w-5 bg-white" />
