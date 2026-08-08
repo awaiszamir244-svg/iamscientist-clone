@@ -9,7 +9,7 @@ const slides = [
     line1: "AI Based",
     line2: "CONTESTS & AWARDS FOR KIDS",
     tagline: "Inspiring Young Minds with Challenges & Awards",
-    image: "/hero-banner.webp",
+    image: "/Hero-Banner.webp",
   },
   {
     line1: "Artificial Intelligence",
